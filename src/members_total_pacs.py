@@ -5,7 +5,7 @@ import requests
 # Ideal output csv
 # Name, ProPublic ID?, party, 2010, 2012, 2014, 2016, 2018, 2020 (amount from pacs)
 
-campaign_finance_api_key = "W5VHJfEibLSUMyKT9c8BPkmHmIXiYqmzwvgq51F3"
+campaign_finance_api_key = "YOUR API KEY HERE"
 campaign_finance_headers = {
     'X-API-Key': campaign_finance_api_key
 }
