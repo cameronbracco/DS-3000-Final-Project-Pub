@@ -8,7 +8,7 @@ starting_session = 110
 ending_session = 116
 all_members = []
 
-congress_api_key = "## INSERT YOUR API KEY HERE"
+congress_api_key = "YOUR API KEY HERE"
 congress_headers = {
     'X-API-Key': congress_api_key}
 
